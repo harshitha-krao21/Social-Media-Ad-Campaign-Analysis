@@ -16,3 +16,13 @@ conversion rates?
 performance metrics like impressions, clicks, and spending?
 2. How do different ad groups, such as low-impression/high-spend or high-click ads,
 perform in terms of conversions?
+
+# Methodology:
+Data Preprocessing
+Exploratory Data Analysis (EDA)
+Clustering Analysis
+Predictive Modeling
+Optimization of Ad Spending
+Grouping Ads Based on Key Metrics
+
+![image](https://github.com/user-attachments/assets/72ba6566-f96e-47fe-b235-34065e972acd)
